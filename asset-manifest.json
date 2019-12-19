@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/githubpages_test/static/css/main.d1b05096.chunk.css",
+    "main.js": "/githubpages_test/static/js/main.e06c0341.chunk.js",
+    "main.js.map": "/githubpages_test/static/js/main.e06c0341.chunk.js.map",
+    "runtime-main.js": "/githubpages_test/static/js/runtime-main.bc3c075b.js",
+    "runtime-main.js.map": "/githubpages_test/static/js/runtime-main.bc3c075b.js.map",
+    "static/js/2.c0c3c25a.chunk.js": "/githubpages_test/static/js/2.c0c3c25a.chunk.js",
+    "static/js/2.c0c3c25a.chunk.js.map": "/githubpages_test/static/js/2.c0c3c25a.chunk.js.map",
+    "index.html": "/githubpages_test/index.html",
+    "precache-manifest.bd7c510a0571285938cfcbd83f78beaf.js": "/githubpages_test/precache-manifest.bd7c510a0571285938cfcbd83f78beaf.js",
+    "service-worker.js": "/githubpages_test/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/githubpages_test/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.c0c3c25a.chunk.js.LICENSE": "/githubpages_test/static/js/2.c0c3c25a.chunk.js.LICENSE",
+    "static/media/logo.svg": "/githubpages_test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc3c075b.js",
+    "static/js/2.c0c3c25a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.e06c0341.chunk.js"
+  ]
+}
